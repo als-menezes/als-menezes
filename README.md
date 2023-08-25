@@ -28,10 +28,10 @@
 <br>
 <br>
 ## ⭐ Informações sobre minha conta GitHub
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/als-menezes">
  <img src="https://github-readme-stats.vercel.app/api?username=als-menezes&show_icons=true&theme=dracula&line_height=27" alt="**André Menezes** github stats"/>
 </a>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/als-menezes">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=als-menezes&theme=dracula&hide_langs_below=1" />
 </a>
 <br>
