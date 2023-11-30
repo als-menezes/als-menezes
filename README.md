@@ -2,7 +2,7 @@
 <h1 align="left">💜 Olá, meu nome é <strong>André Menezes!</strong></h1>
 
 
-> Sou desenvolvedor full stack (ainda em formação), com enorme paixão pela área de tecnologia e minha missão é torná-la mais acessível e inclusiva.
+> Sou desenvolvedor full stack formado pela Trybe, com enorme paixão pela área de tecnologia e minha missão é torná-la mais acessível e inclusiva.
 
 <h3> 👨: &nbsp;Sobre mim </h3>
 
