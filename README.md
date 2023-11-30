@@ -7,8 +7,8 @@
 <h3> 👨: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **DESENVOLVIMENTO WEB** na <a href="https://www.betrybe.com/">Trybe</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, Node.js, React, Jest, Express, MySQL**.
+- 🎓 &nbsp; formado em **DESENVOLVIMENTO WEB** pela <a href="https://www.betrybe.com/">Trybe</a>.
+- 🌱 &nbsp; Aprendendo sempre mais sobre **JavaScript, Node.js, React, Jest, Express, MySQL**.
 <br>
 <br>
 <br>
