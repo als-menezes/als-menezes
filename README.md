@@ -8,6 +8,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; formado em **DESENVOLVIMENTO WEB** pela <a href="https://www.betrybe.com/">Trybe</a>.
+- 🎓 &nbsp; atualmente cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** PELA <a href="https://estacio.br/?home=true">Universidade Estácio de Sá</a>.
 - 🌱 &nbsp; Aprendendo sempre mais sobre **JavaScript, Node.js, React, Jest, Express, MySQL**.
 <br>
 <br>
