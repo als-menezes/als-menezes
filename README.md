@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<h1 align="left">💜 Olá, meu nome é <strong>André Menezes!</strong></h1>
-
+<h1>💜 <strong>Olá, meu nome é André Menezes!</strong></h1>
 
 > Sou desenvolvedor full stack formado pela Trybe, com enorme paixão pela área de tecnologia e minha missão é torná-la mais acessível e inclusiva.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3> 👨: &nbsp;Sobre mim </h3>
 
@@ -12,10 +11,7 @@
 - 🌱 &nbsp; Aprendendo sempre mais sobre **JavaScript, Node.js, React, Jest, Express, MySQL**.
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 ## ⭐ Informações sobre minha conta GitHub
 <a href="https://github.com/als-menezes">
  <img src="https://github-readme-stats.vercel.app/api?username=als-menezes&show_icons=true&theme=dracula&line_height=27" alt="**André Menezes** github stats"/>
